@@ -1,0 +1,20 @@
+{
+    "name": "cookit",
+    "displayName": "cookit",
+    "description": "cookie is cool, I love cookie",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "DotJoshJohnson.xml", 
+        "FerrierBenjamin.fold-unfold-all-icone", 
+        "FerrierBenjamin.search-in-git", 
+        "huizhou.githd", 
+        "ms-azuretools.vscode-docker", 
+        "SonarSource.sonarlint-vscode"
+    ]
+}
